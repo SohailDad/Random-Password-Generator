@@ -1,6 +1,7 @@
 # Random Password Generator in React Js
 
- ![alt text](pwd-generator.PNG)
+![alt text](pwdGenerator.PNG)
+ 
 
 # Getting Started with Create React App
 
